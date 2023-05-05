@@ -1,1 +1,0 @@
-python ./src/train.py --dataset 'bank' --senstive_feature 1 --upsample True  --lr_h 1e-3 --lr_c 1e-5 --lr_p 1e-3 --et 1 --lamda 1 --alpha 0.2 --mu 0.6
